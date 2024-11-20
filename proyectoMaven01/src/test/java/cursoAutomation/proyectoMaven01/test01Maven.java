@@ -12,6 +12,6 @@ public class test01Maven {
 	//Modificaciones 1
 	
 	//Nueva forma de medir el tiempo
-	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10)); 
 	
 }
